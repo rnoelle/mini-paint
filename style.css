@@ -25,6 +25,10 @@ div div {
     background: black;
 }
 
+.box {
+  cursor: pointer;
+}
+
 .white {
   background: #fff;
 }
